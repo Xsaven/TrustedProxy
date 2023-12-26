@@ -1,6 +1,6 @@
 <?php
 
-namespace Fideloper\Proxy;
+namespace Bfg\Proxy;
 
 use Closure;
 use Illuminate\Http\Request;

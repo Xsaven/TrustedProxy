@@ -1,6 +1,6 @@
 <?php
 
-namespace Fideloper\Proxy;
+namespace Bfg\Proxy;
 
 use Illuminate\Foundation\Application as LaravelApplication;
 use Illuminate\Support\ServiceProvider;

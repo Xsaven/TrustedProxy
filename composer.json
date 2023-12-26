@@ -24,13 +24,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Fideloper\\Proxy\\": "src/"
+            "Bfg\\Proxy\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Fideloper\\Proxy\\TrustedProxyServiceProvider"
+                "Bfg\\Proxy\\TrustedProxyServiceProvider"
             ]
         }
     },
